@@ -1,5 +1,5 @@
 {
-  "Vehicle" : {
+  "Vehicle" : [
     {
       "vehicleName"   : "Araç 1",
       "vehicleColor"  : "Kırmızı",
@@ -18,6 +18,6 @@
       "vehicleLat"    : "30.258",
       "vehicleLon"    : "37.211"
     },
-  }
+  ]
   
 }
